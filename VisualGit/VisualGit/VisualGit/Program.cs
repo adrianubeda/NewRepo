@@ -6,7 +6,11 @@ namespace VisualGit
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hola");
+
+            Console.WriteLine("Hola");
+
         }
     }
 }
